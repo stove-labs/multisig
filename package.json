@@ -47,6 +47,6 @@
     }
   },
   "dependencies": {
-    "ganache-cli": "^6.10.0-tezos.1"
+    "ganache-cli": "^6.11.0-tezos.0"
   }
 }
